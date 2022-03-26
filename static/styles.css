@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+    height:100vh;
+    background: linear-gradient(#00003e, #6e73c4);
+  }
+  .card{
+    width: 500px;
+    text-align: center;
+    margin: auto;
+    margin-top: 7%;
+    color: white;
+    font-family: 'Inconsolata', monospace;
+  }
+  .card h1{
+    font-size: 35px;
+    letter-spacing: 2px;
+    font-weight: 100;
+  }
+  .card h5{
+    font-size: 20px;
+    letter-spacing: 3px;
+    font-weight: 100;
+  }
+  .card p{
+    text-align: justify;
+  }
+  .card a{
+    color:white;
+    text-align: justify;
+  }
+
